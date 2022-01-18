@@ -80,13 +80,11 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/RomaRomero?tab=repositories">
+<!-- <a href="https://github.com/RomaRomero?tab=repositories">
   <img align="center" 
-       
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RomaRomero)](https://github.com/anuraghazra/github-readme-stats) -->
        src="https://github-readme-stats.vercel.app/api/wakatime?username=RomaRomero" 
        alt='RomaRomero' favorite languages" />
-</a>
+</a> -->
   
 <a href="https://github.com/RomaRomero">
   <img align="center"
