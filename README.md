@@ -82,7 +82,9 @@
     
 <a href="https://github.com/RomaRomero?tab=repositories">
   <img align="center" 
-       src="https://camo.githubusercontent.com/02fb9ba944990c70fe29adb92d2d53fa5b43412f721094089cf797dc9bd82993/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d61707072656e74696365" 
+       
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RomaRomero)](https://github.com/anuraghazra/github-readme-stats) -->
+       src="https://github-readme-stats.vercel.app/api/wakatime?username=RomaRomero" 
        alt='RomaRomero' favorite languages" />
 </a>
   
