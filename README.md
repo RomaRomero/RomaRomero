@@ -15,7 +15,6 @@
 <LI>🔗FB (https://www.facebook.com/profile.php?id=100006937840533 ).
 <LI>🔗TW (https://twitter.com/BryamRomero4).
 <LI>🔗Ln (https://www.linkedin.com/in/bryam-romero-274a0522b).
-<LI>🔗GLB(https://gitlab.com/romero.bryam117).
 </UL>
 </UL>
   
